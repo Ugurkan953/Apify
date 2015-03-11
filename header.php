@@ -14,7 +14,3 @@ require_once "includes/initialize.php";
     <meta charset="UTF-8">
     <link rel="stylesheet" href=""/>
 </head>
-<body>
-
-</body>
-</html>
