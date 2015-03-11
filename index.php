@@ -4,7 +4,11 @@
  * User: Casper
  * Date: 11-3-2015
  * Time: 14:00
+<<<<<<< HEAD
  * Ik bewerk deze shizzle
+=======
+ * Test Jerome Laptop
+>>>>>>> origin/master
  */
 
 ?>
