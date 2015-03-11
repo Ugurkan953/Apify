@@ -1,5 +1,5 @@
 <?php
 /**
- * instagram with json output
+ * Instagram with json output
  *
  */

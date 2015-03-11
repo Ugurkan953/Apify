@@ -1,1 +1,1 @@
-hoi
+app = alles dat iets visueels maakt
