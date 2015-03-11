@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Apify.iml" filepath="$PROJECT_DIR$/.idea/Apify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apify.iml" filepath="$PROJECT_DIR$/.idea/apify.iml" />
     </modules>
   </component>
 </project>
