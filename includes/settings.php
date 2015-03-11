@@ -1,7 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Casper
- * Date: 11-3-2015
- * Time: 13:56
- */
+
+//Google API config (Key for browser applications)
+define("API_KEY_MAPS", "AIzaSyB5P5AvxKVucpCzJEERlc-lFgHcwcWd17E");
